@@ -1,9 +1,9 @@
 const CACHE ='ns'
-const FILES = ['/advancedProgrammingLab/CW2/ArrayExamples.html', '/advancedProgrammingLab/CW3/inspector.html', 
-'/advancedProgrammingLab/CW4/index.html', '/advancedProgrammingLab/CW5/selectFile.html', '/advancedProgrammingLab/CW6/performanceTest.html'
-,'/advancedProgrammingLab/CW7/documentObjectModel.html', '/advancedProgrammingLab/HW1/HW1courseData.html', 
-'/advancedProgrammingLab/HW2/index.html',
-'/advancedProgrammingLab/HW3/animations.html']
+const FILES = ['/advanced-programming/CW2/ArrayExamples.html', '/advanced-programming/CW3/inspector.html', 
+'/advanced-programming/CW4/index.html', '/advanced-programming/CW5/selectFile.html', '/advanced-programming/CW6/performanceTest.html'
+,'/advanced-programming/CW7/documentObjectModel.html', '/advanced-programming/HW1/HW1courseData.html', 
+'/advanced-programming/HW2/index.html',
+'/advanced-programming/HW3/animations.html']
 
 function installCB(e) {
   e.waitUntil(

@@ -1,4 +1,4 @@
-# automataLab
+# automata
 
   All Work On Formal Languages and Automata Theory Lesson
   
